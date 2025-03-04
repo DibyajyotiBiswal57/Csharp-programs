@@ -84,3 +84,6 @@
 
 # Git-specific files
 .git/
+
+#Other
+.directory
